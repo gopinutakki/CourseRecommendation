@@ -1,5 +1,5 @@
 /**
- * Course Recommendation System. WKU.
+ * Course Recommendation System. Western Kentucky University.
  */
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
